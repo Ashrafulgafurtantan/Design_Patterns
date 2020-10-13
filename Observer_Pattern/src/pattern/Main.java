@@ -15,7 +15,7 @@ public class Main {
             c2.addSubscriber(s2);
             c2.addSubscriber(s3);
 
-       
+
             c1.uploadVideo();
 
     }
